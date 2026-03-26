@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sacand</h1>
-<h3 align="center">Lifelong learner from China with 10 years of PHP experience.</h3>
+<h3 align="center">lifelong learner </h3>
 
 - 💬 Ask me about **PHP,React,Vue,Nodejs**
 
